@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'devise'
 gem 'pry-rails'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
